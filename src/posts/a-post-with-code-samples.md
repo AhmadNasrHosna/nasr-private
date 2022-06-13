@@ -23,8 +23,8 @@ It’s small, but hella mighty:
 ```css
 .full-bleed {
   width: 100vw;
-  margin-left: 50%;
-  transform: translateX(-50%);
+  margin-right: 50%;
+  transform: translateX(50%);
 }
 ```
 

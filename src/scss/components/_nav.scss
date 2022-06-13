@@ -13,7 +13,7 @@
     }
 
     > * + * {
-      margin-left: get-size(500);
+      margin-right: get-size(500);
     }
   }
 
@@ -23,11 +23,15 @@
 
     a {
       color: currentColor;
+      border-radius: 6px;
+      text-decoration: none;
+      padding: 7px 16px;
 
       @include apply-utility('weight', 'mid');
 
-      &:not(:hover) {
-        text-decoration: none;
+      &:hover {
+        background: var(--color-theme-highlight-block);
+        color: var(--color-text);
       }
     }
   }

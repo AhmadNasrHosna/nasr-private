@@ -3,7 +3,7 @@
     --flow-space: #{get-size(800)};
 
     /**
-     * Generic HTML styles 
+     * Generic HTML styles
      */
     h2 + *,
     h3 + * {
@@ -50,10 +50,9 @@
     }
 
     blockquote {
-      border-left: 0.4rem solid var(--color-theme-primary-glare);
-      margin-left: 0;
-      padding-left: get-size(500);
-      font-style: italic;
+      border-right: 0.4rem solid var(--color-theme-primary-glare);
+      margin-right: 0;
+      padding-right: get-size(500);
       font-size: get-size(600);
 
       p {
@@ -64,7 +63,7 @@
 
     ol:not([class]),
     ul:not([class]) {
-      margin-left: get-size(800);
+      margin-right: get-size(800);
 
       li + li {
         margin-top: get-size(300);
@@ -86,9 +85,9 @@
     video {
       width: 100vw;
       max-width: map-get($metrics, 'wrap-max-width');
-      margin-left: 50%; /*changing this value to 47% removes the horizontal scrollbar once the viewport is < 930px */
+      margin-right: 50%; /*changing this value to 47% removes the horizontal scrollbar once the viewport is < 930px */
       transform: translateX(
-        -50%
+        50%
       ); /* changing this value to 49% allows for the suggestion above to also eliminate the horizontal scroll. */
       position: relative;
     }
@@ -121,11 +120,11 @@
   }
 
   &__footer {
-    background: var(--color-theme-highlight);
+    background: hsl(194, 18%, 94%);
 
     h2 {
       flex-shrink: 0;
-      margin-right: get-size('base');
+      margin-left: get-size('base');
       color: var(--color-dark);
     }
 

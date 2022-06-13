@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87839cab-1606-4143-9365-a1fe6c22cb30" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_data/navigation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/_data/navigation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_data/site.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/_data/site.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_data/tokens.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/_data/tokens.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/layouts/base.njk" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/layouts/base.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/layouts/post.njk" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/layouts/post.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/partials/global/site-foot.njk" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/global/site-foot.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/filters/date-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/filters/date-filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/a-post-with-code-samples.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/a-post-with-code-samples.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/a-simple-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/a-simple-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/components/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/components/_nav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/components/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/components/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/components/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/components/_post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/components/_site-foot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/components/_site-foot.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +47,7 @@
       <workItem from="1654441016529" duration="1783000" />
       <workItem from="1654601991652" duration="94000" />
       <workItem from="1655064802555" duration="335000" />
-      <workItem from="1655065151940" duration="6061000" />
+      <workItem from="1655065151940" duration="6439000" />
     </task>
     <servers />
   </component>
